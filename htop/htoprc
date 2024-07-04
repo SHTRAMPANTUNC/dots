@@ -1,0 +1,15 @@
+color_scheme=6
+cpu_count_from_one=1
+fields=0 4 48 17 18 50 46 39 2 49 1
+hide_kernel_threads=1
+hide_userland_threads=1
+highlight_base_name=1
+left_meter_modes=1 2 2 2 2 2 2
+left_meters=LeftCPUs Blank Uptime LoadAverage Tasks Blank Memory
+right_meter_modes=1 2 1 1
+right_meters=RightCPUs Blank DiskIO NetworkIO
+screen:Mem=0 113 48 38 40 39 119 1
+show_cpu_frequency=1
+show_cpu_temperature=1
+show_program_path=0
+tree_view=1
